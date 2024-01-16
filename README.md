@@ -23,7 +23,6 @@ Application I build for Liquid Galaxy
 
 ![image](https://github.com/Rancho-rachit/laser-slide/assets/111473259/2adc8a9a-594b-4fa0-a31a-2fb92a2f99c7)
 
-
 1. To run this app
 `git clone https://github.com/Rancho-rachit/laser-slide.git`
 
@@ -37,4 +36,3 @@ Application I build for Liquid Galaxy
 ` flutter run`
 
 ---
-
